@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "jwtSecret": "alex doesnt suck",
+  "mongoUri": "mongodb+srv://aliaksei:1234hello@cluster0-1aes4.gcp.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+
+}
